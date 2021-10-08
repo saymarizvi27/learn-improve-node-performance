@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/saymarizvi27/learn-improve-node-performance#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "pm2": "^5.1.2"
   }
 }
